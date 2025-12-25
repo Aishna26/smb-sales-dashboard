@@ -1,0 +1,9 @@
+sale_id,date,customer_id,product,quantity,price,region
+1,2024-01-03,C001,Notebook,2,5.00,New York
+2,2024-01-04,C002,Pen,10,1.50,NY
+3,2024-01-05,C001,Backpack,1,35.00,New York
+4,2024-01-06,C003,Notebook,3,5.00,California
+5,2024-01-08,C004,Pen,5,1.50,CA
+6,2024-01-10,C002,Notebook,,5.00,NY
+7,2024-01-12,C005,Backpack,1,35.00,Texas
+8,2024-01-15,C001,Pen,20,1.50,New York
